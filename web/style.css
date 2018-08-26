@@ -1,0 +1,35 @@
+
+
+#drugi-div{
+    background: #663344;
+    color: yellow;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+#trzeci-div{
+    background-color: yellow;
+    font-family: "Bookman Old Style", serif;
+    display: inline-block;
+
+}
+
+#czwarty-div{
+    display: inline;
+    background-color: chocolate;
+    font-weight: bold;
+}
+#piaty-div{
+    display: inline;
+    background-color: yellowgreen;
+    font-weight: inherit;
+}
+#szosty-div{
+    display: inline;
+    background-color: blue;
+    font-weight: revert;
+}
+
+span{
+    font-weight: bold;
+}
